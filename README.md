@@ -18,10 +18,4 @@ Built and tested on the MovieLens dataset.
 Use this link to open the notebook in Google Colab:  
 [Open Notebook in Colab](https://colab.research.google.com/drive/1PetYy6DDdwaJo2E6LeavCL7BD2N_Hq3F?usp=sharing)
 
----
 
-## 🖥️ Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/BMM52/hybrid-movie-recommender.git
-   cd hybrid-movie-recommender
