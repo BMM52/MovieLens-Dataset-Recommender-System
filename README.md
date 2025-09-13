@@ -6,16 +6,17 @@ Built and tested on the MovieLens dataset.
 ---
 
 ## Files in this repository
-- `Hybrid_Movie_Recommender.ipynb` — Full Google Colab notebook: data cleaning, EDA, hybrid recommender, evaluation.
-- `requirements.txt` — Python dependencies to run the notebook locally.
+- `Hybrid_Movie_Recommender.ipynb` — Full Google Colab notebook: data cleaning, EDA, hybrid recommender, evaluation.  
+  You can also open it directly via Colab using the link below.
+- `requirements.txt` — Python dependencies to run the notebook locally.  
 - `LICENSE` — MIT license.
 
 ---
 
 ## 🚀 Quick Start — Open in Colab
-Run the notebook instantly with Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BMM52/hybrid-movie-recommender/blob/main/Hybrid_Movie_Recommender.ipynb)
+Use this link to open the notebook in Google Colab:  
+[Open Notebook in Colab](https://colab.research.google.com/drive/1PetYy6DDdwaJo2E6LeavCL7BD2N_Hq3F?usp=sharing)
 
 ---
 
